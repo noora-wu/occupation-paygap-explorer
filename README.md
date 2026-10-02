@@ -4,7 +4,9 @@ An interactive D3 bubble chart of occupation-level gender pay inequality in the 
 
 ## View the site
 
-Open the GitHub Pages site, or run it locally. The page loads CSV files with JavaScript, so it needs a web server.
+https://noora-wu.github.io/occupation-paygap-explorer/
+
+To run it locally, the page loads CSV files with JavaScript, so it needs a web server.
 
 ```powershell
 python -m http.server 8000
